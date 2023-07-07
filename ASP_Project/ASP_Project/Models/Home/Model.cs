@@ -21,7 +21,7 @@
             
             public double Price
             {
-                get; set;
+               get; set;
             }
         }
     }
